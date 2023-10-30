@@ -1,0 +1,14 @@
+h1{
+    color: rgb(235, 110, 214); 
+}
+
+#mi-id {
+    color: rgb(124, 41, 219);
+}
+
+body{
+    margin: 30px auto;
+    padding: 200px;
+    background-color: aqua;
+}
+
