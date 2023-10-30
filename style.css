@@ -1,5 +1,11 @@
 h1{
     color: rgb(235, 110, 214); 
+    margin: 40px;
+    padding: 30px;
+    background-color: rgb(216, 241, 248);
+    border: 30px solid rgb(226, 28, 226);
+
+
 }
 
 #mi-id {
@@ -8,7 +14,14 @@ h1{
 
 body{
     margin: 30px auto;
-    padding: 200px;
-    background-color: aqua;
+    border-radius:40px;
+    padding: 20px;
+    background-color: rgb(245, 162, 245);
+    z-index: 300%;
 }
 
+select{
+    cursor: not-allowed;
+    position: absolute;
+    font-size: 20px;
+}
